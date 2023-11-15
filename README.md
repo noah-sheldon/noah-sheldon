@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/images/welcome.mp4" alt="Welcome to my profile!" title="Welcome to my profile!"/>
+<img src="./assets/images/welcome.gif" alt="Welcome to my profile!" title="Welcome to my profile!"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/noah__sheldon/">
