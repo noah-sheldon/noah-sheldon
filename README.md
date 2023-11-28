@@ -129,4 +129,12 @@ With a strong commitment to delivering high-quality code, I thrive in collaborat
 
 ## Github stats 📊
 
-<figure><embed src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/04eb742f-cacf-4f2f-8788-ec3b48c23513.svg"></embed></figure>
+### Coding Activity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/7e377306-bc2e-4974-b396-0999eb5f38db.png" /></a>
+
+### Languages
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/8e6e4119-3e25-4863-bbc1-a945a7efefd9.png" /></a>
+
+
