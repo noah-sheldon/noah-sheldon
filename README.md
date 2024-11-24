@@ -97,7 +97,8 @@ A dedicated feature providing daily devotional content to inspire and engage the
 
 ### **Time Spent on Coding**
 
-## <figure><embed src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/1a405388-38dd-469e-a195-1516be35e008.svg"></embed></figure>
+<figure>
+<img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/1a405388-38dd-469e-a195-1516be35e008.svg"></figure>
 
 ### **Language Usage**
 
@@ -109,15 +110,15 @@ A dedicated feature providing daily devotional content to inspire and engage the
 
 ### **Editor Usage**
 
-## <figure><embed src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f55b247e-31b7-45b4-ac16-d0a16b5c82c5.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f55b247e-31b7-45b4-ac16-d0a16b5c82c5.svg"></figure>
 
 ### **Operating Systems**
 
-## <figure><embed src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/10006189-5843-4777-916e-2721d412505c.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/10006189-5843-4777-916e-2721d412505c.svg"></figure>
 
 ### **Project Contributions**
 
-<figure><embed src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f4e02496-9de7-4c06-8dc4-87885d477037.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f4e02496-9de7-4c06-8dc4-87885d477037.svg"></figure>
 
 ---
 
