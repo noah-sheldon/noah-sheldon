@@ -69,6 +69,9 @@ Building production AI systems in financial services: agentic AI, RAG pipelines,
 > _"He transformed our digital infrastructure with an intuitive site design and reliable tools built to perform under load."_
 > – **Engineering Collaborator**
 
+> _"Noah reasons from first principles. He strips a problem down to its fundamentals before reaching for tools, which makes his solutions simpler, faster, and far more robust than the obvious approach."_
+> – **CTO, Engineering**
+
 ---
 
 ## Experience
