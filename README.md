@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <b>Hiring, consulting, or need an AI audit?</b> <a href="https://noahsheldon.dev/mentor">Book a free call <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a>
+</p>
+
+<p align="center">
   <a href="https://x.com/noah__sheldon"><img src="https://img.shields.io/badge/-X-18181b?style=flat&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/noah--sheldon/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/noah-sheldon"><img src="https://img.shields.io/badge/-GitHub-18181b?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
@@ -40,6 +44,30 @@ Building production AI systems in financial services: agentic AI, RAG pipelines,
 <p align="center">
   <b>8+</b>&nbsp;engineers led&ensp;·&ensp;<b>15+</b>&nbsp;products shipped&ensp;·&ensp;<b>20+</b>&nbsp;devs mentored&ensp;·&ensp;<b>4</b>&nbsp;industries
 </p>
+
+---
+
+## Work With Me
+
+| <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg> Free Mentorship | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg> AI Opportunity Audit | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg> Courses & Deep Dives | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/><path d="M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg> Tech Wellbeing |
+| :---: | :---: | :---: | :---: |
+| 30 minutes on your career, your AI/ML systems, or whatever you're building. No pitch, no pressure. | A scored feasibility review of AI in your business. Personally assessed. No jargon. No overselling. | Applied AI, agentic systems, RAG, and LLMOps: the curriculum I wish I had. | 1:1 sessions for AI engineers on burnout, boundaries, and building a pace that lasts. |
+| <a href="https://noahsheldon.dev/mentor">Book a free call <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/audit">Get your free audit <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/courses">Join the waitlist <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/health">Book a session <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> |
+
+*Free calls, audits, and learning resources at [noahsheldon.dev](https://noahsheldon.dev).*
+
+---
+
+## Testimonials
+
+> _"Noah's ability to solve complex problems is outstanding. His work on nexBit was both innovative and technically excellent."_
+> – **Hackathon Judge**
+
+> _"Noah is a sharp product thinker who blends fast development with clarity. His tools are practical, polished, and built to scale."_
+> – **Startup Mentor**
+
+> _"He transformed our digital infrastructure with an intuitive site design and reliable tools built to perform under load."_
+> – **Engineering Collaborator**
 
 ---
 
@@ -106,36 +134,12 @@ Building production AI systems in financial services: agentic AI, RAG pipelines,
 
 ---
 
-## Work With Me
-
-| <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg> Free Mentorship | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg> AI Opportunity Audit | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg> Courses & Deep Dives | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/><path d="M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg> Tech Wellbeing |
-| :---: | :---: | :---: | :---: |
-| 30 minutes on your career, your AI/ML systems, or whatever you're building. No pitch, no pressure. | A scored feasibility review of AI in your business. Personally assessed. No jargon. No overselling. | Applied AI, agentic systems, RAG, and LLMOps: the curriculum I wish I had. | 1:1 sessions for AI engineers on burnout, boundaries, and building a pace that lasts. |
-| <a href="https://noahsheldon.dev/mentor">Book a free call <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/audit">Get your free audit <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/courses">Join the waitlist <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/health">Book a session <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> |
-
-*Free calls, audits, and learning resources at [noahsheldon.dev](https://noahsheldon.dev).*
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noah-sheldon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noah-sheldon&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## Testimonials
-
-> _"Noah's ability to solve complex problems is outstanding. His work on nexBit was both innovative and technically excellent."_
-> – **Hackathon Judge**
-
-> _"Noah is a sharp product thinker who blends fast development with clarity. His tools are practical, polished, and built to scale."_
-> – **Startup Mentor**
-
-> _"He transformed our digital infrastructure with an intuitive site design and reliable tools built to perform under load."_
-> – **Engineering Collaborator**
 
 ---
 
