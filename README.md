@@ -37,6 +37,10 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 | **Focus** | Agentic AI · RAG · LLMOps for high-trust environments |
 | **Email** | [noah@noahsheldon.dev](mailto:noah@noahsheldon.dev) |
 
+<p align="center">
+  <b>8+</b>&nbsp;engineers led&ensp;·&ensp;<b>15+</b>&nbsp;products shipped&ensp;·&ensp;<b>20+</b>&nbsp;devs mentored&ensp;·&ensp;<b>4</b>&nbsp;industries
+</p>
+
 ---
 
 ## Experience
