@@ -4,7 +4,7 @@
 
 <h1 align="center">Noah Sheldon</h1>
 
-<h3 align="center">Associate Director, Applied AI/ML — Fitch Ratings</h3>
+<h3 align="center">Associate Director, Applied AI/ML at Fitch Ratings</h3>
 
 <p align="center">
   <em>I design systems. I write code. I lead teams. I teach both.</em>
@@ -27,11 +27,11 @@
 
 ## About
 
-Building production AI systems in financial services — agentic AI, RAG pipelines, and LLMOps infrastructure that drive credit ratings analytics at global scale. I lead engineering teams, mentor developers, and teach what actually works in production.
+Building production AI systems in financial services: agentic AI, RAG pipelines, and LLMOps infrastructure that drive credit ratings analytics at global scale. I lead engineering teams, mentor developers, and teach what actually works in production.
 
 |  |  |
 | :--- | :--- |
-| **Role** | Associate Director, Applied AI/ML — Fitch Ratings |
+| **Role** | Associate Director, Applied AI/ML at Fitch Ratings |
 | **Location** | London, UK |
 | **Education** | MSc Data Science, University of Bristol |
 | **Focus** | Agentic AI · RAG · LLMOps for high-trust environments |
@@ -78,14 +78,14 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 
 ### Production Platforms
 
-- **Agentic AI & RAG Platform** — Enterprise multi-agent intelligence and retrieval pipelines powering institutional credit risk analytics at Fitch Ratings.
-- **Trade Compression Engine** — High-throughput Python automation and Flask APIs for multi-billion dollar swap compressions at BNP Paribas.
-- **Pharma ML Data Pipelines** — Data transformation and predictive ML models for pharmaceutical analytics.
+- **Agentic AI & RAG Platform**: Enterprise multi-agent intelligence and retrieval pipelines powering institutional credit risk analytics at Fitch Ratings.
+- **Trade Compression Engine**: High-throughput Python automation and Flask APIs for multi-billion dollar swap compressions at BNP Paribas.
+- **Pharma ML Data Pipelines**: Data transformation and predictive ML models for pharmaceutical analytics.
 
 ### Hackathons & Open Source
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg> **[e-sky.xyz](https://e-sky.xyz)** — Real-time on-chain token explorer built with Goldsky subgraphs and Ethena data (*1st Place – Ethena x Goldsky Hackathon*).
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg> **[nexBit](https://7e3lh-5yaaa-aaaaj-azwka-cai.icp0.io/)** — Decentralized Bitcoin wallet and explorer on the Internet Computer (*ICP Hackathon Finalist*).
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg> **[e-sky.xyz](https://e-sky.xyz)**: Real-time on-chain token explorer built with Goldsky subgraphs and Ethena data (*1st Place: Ethena x Goldsky Hackathon*).
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg> **[nexBit](https://7e3lh-5yaaa-aaaaj-azwka-cai.icp0.io/)**: Decentralized Bitcoin wallet and explorer on the Internet Computer (*ICP Hackathon Finalist*).
 
 *Explore full project case studies at [noahsheldon.dev/projects](https://noahsheldon.dev/projects) <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>.*
 
@@ -93,11 +93,11 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 
 ## Recognition & Certifications
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg> **1st Place** – Ethena x Goldsky Hackathon
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15"/><path d="M11 12 5.12 2.2"/><path d="m13 12 5.88-9.8"/><path d="M8 7h8"/><circle cx="12" cy="17" r="5"/><path d="M12 18v-2h-.5"/><path d="M10 16h1.5"/></svg> **Finalist** – Internet Computer Protocol (ICP) Global Hackathon
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg> **Professional Scrum Master (PSM)** – Agile engineering practices and team delivery management
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg> **Interest Rate Swaps (LFS)** – Financial derivatives and trading systems for fixed-income markets
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg> **Mentoring & Speaking** – Mentoring engineers navigating their AI journey; open to conferences, tech meetups, and startup events
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg> **1st Place**: Ethena x Goldsky Hackathon
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15"/><path d="M11 12 5.12 2.2"/><path d="m13 12 5.88-9.8"/><path d="M8 7h8"/><circle cx="12" cy="17" r="5"/><path d="M12 18v-2h-.5"/><path d="M10 16h1.5"/></svg> **Finalist**: Internet Computer Protocol (ICP) Global Hackathon
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg> **Professional Scrum Master (PSM)**: Agile engineering practices and team delivery management
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg> **Interest Rate Swaps (LFS)**: Financial derivatives and trading systems for fixed-income markets
+- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:6px"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg> **Mentoring & Speaking**: Mentoring engineers navigating their AI journey; open to conferences, tech meetups, and startup events
 
 ---
 
@@ -105,7 +105,7 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 
 | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg> Free Mentorship | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg> AI Opportunity Audit | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg> Courses & Deep Dives | <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/><path d="M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg> Tech Wellbeing |
 | :---: | :---: | :---: | :---: |
-| 30 minutes on your career, your AI/ML systems, or whatever you're building. No pitch, no pressure. | A scored feasibility review of AI in your business. Personally assessed. No jargon. No overselling. | Applied AI, agentic systems, RAG, and LLMOps — the curriculum I wish I had. | 1:1 sessions for AI engineers on burnout, boundaries, and building a pace that lasts. |
+| 30 minutes on your career, your AI/ML systems, or whatever you're building. No pitch, no pressure. | A scored feasibility review of AI in your business. Personally assessed. No jargon. No overselling. | Applied AI, agentic systems, RAG, and LLMOps: the curriculum I wish I had. | 1:1 sessions for AI engineers on burnout, boundaries, and building a pace that lasts. |
 | <a href="https://noahsheldon.dev/mentor">Book a free call <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/audit">Get your free audit <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/courses">Join the waitlist <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> | <a href="https://noahsheldon.dev/health">Book a session <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-left:3px"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a> |
 
 *Free calls, audits, and learning resources at [noahsheldon.dev](https://noahsheldon.dev).*
@@ -144,4 +144,4 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 
 ---
 
-<sub>© 2026 Noah Sheldon — portfolio, resume, and writing at [noahsheldon.dev](https://noahsheldon.dev)</sub>
+<sub>© 2026 Noah Sheldon · portfolio, resume, and writing at [noahsheldon.dev](https://noahsheldon.dev)</sub>
