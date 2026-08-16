@@ -4,11 +4,18 @@
 
 # 👋 Hello, I'm Noah Sheldon
 
-### Passionate **Full Stack Developer** | AI SaaS Founder | Blockchain Innovator | Building in Public
+### Associate Director, Applied AI/ML | Building Agentic AI in Production | Building in Public
 
 [![X Badge](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/noah__sheldon)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah--sheldon/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noah__sheldon/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-sheldon)
+[![TikTok Badge](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noah__sheldon)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@noah-sheldon)
+[![Threads Badge](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noah__sheldon)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582645572926)
+[![Website Badge](https://img.shields.io/badge/Website-noahsheldon.dev-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noahsheldon.dev)
+[![Email Badge](https://img.shields.io/badge/Email-noah%40noahsheldon.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah@noahsheldon.dev)
 
 </div>
 
@@ -16,82 +23,85 @@
 
 ## About Me
 
-Hi there! I'm Noah Sheldon, a highly motivated **Full Stack Developer** with expertise in:
-
-- **Python**, **JavaScript/Typescript**, **Next.js**, **UI/UX**, and **Web3 technologies**
-- Focused on building tools that solve real problems with clarity and speed
-- Building in public. Always learning. Always shipping.
+- **Leading Applied AI & ML** as Associate Director at Fitch Ratings in London. Specializing in enterprise Agentic AI systems, production RAG architectures, and scalable LLMOps.
+- **MSc in Data Science** from the University of Bristol.
+- *"I design systems. I write code. I lead teams. I teach both."* Building performant solutions from institutional finance pipelines to public developer tools.
 
 ---
 
 ## 🧠 Skills & Expertise
 
-| **Category**                | **Skills**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Programming Languages**   | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)                                                                                                    |
-| **Frontend Development**    | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![ShadCN](https://img.shields.io/badge/-ShadCN-1E293B?style=flat) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat) |
-| **Backend Development**     | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) ![ICP Canisters](https://img.shields.io/badge/-ICP%20Canisters-2E65F3?style=flat) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)                                                        |
-| **UI/UX Design**            | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![ShadCN](https://img.shields.io/badge/-ShadCN-1E293B?style=flat) ![UX Research](https://img.shields.io/badge/-UX%20Research-5B21B6?style=flat) ![Accessibility](https://img.shields.io/badge/-Accessibility-4285F4?style=flat)                                                                                                                                                                                   |
-| **Marketing & Strategy**    | Content planning, SEO, Funnel Strategy, Video Editing, Repurposing Content                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Blockchain & Web3**       | ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat) ![Solana](https://img.shields.io/badge/-Solana-4E44CE?logo=solana&logoColor=white&style=flat) ![ICP](https://img.shields.io/badge/-ICP-2E65F3?style=flat) ![Threshold ECDSA](https://img.shields.io/badge/-Threshold%20ECDSA-00A65A?style=flat) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat) ![ethers.js](https://img.shields.io/badge/-ethers.js-333333?style=flat)              |
-| **Databases**               | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)                                                                                                                                                                                               |
-| **Hosting & Deployment**    | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)                 |
-| **Productivity & AI Tools** | ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF5722?style=flat) ![Bolt.me](https://img.shields.io/badge/-Bolt.me-292929?style=flat) ![v0.dev](https://img.shields.io/badge/-v0.dev-0078D4?style=flat) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?logo=github&logoColor=white&style=flat) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white&style=flat)                                                            |
-
-## 🛠️ Tools & Technologies
+| Category | Key Technologies & Capabilities |
+| :--- | :--- |
+| **Applied AI & ML** | Agentic AI, RAG, LLMOps, MLOps, LangChain, LangGraph, LlamaIndex, Amazon Bedrock, Azure AI Foundry, Vector Databases |
+| **Backend** | Python, FastAPI, Django, Node.js, Microservices, REST & GraphQL APIs |
+| **Data Engineering** | PostgreSQL, Redis, Elasticsearch, Apache Airflow, Pandas, NumPy |
+| **Infrastructure & Cloud** | Docker, Kubernetes, AWS, Azure, CI/CD Pipelines, Amazon SageMaker |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Engineering Leadership** | Strategy, Team Leadership, Technical Mentorship, Public Speaking, Agile/Scrum |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,rust,solana,ethereum,postgres,mongodb,docker,nginx,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,fastapi,django,nodejs,postgres,redis,docker,kubernetes,aws,azure,git" alt="Tech Stack" />
 </p>
+
+---
+
+## 💼 Experience Timeline
+
+| Role | Organization | Location / Dates |
+| :--- | :--- | :--- |
+| **Associate Director, Applied AI/ML** | Fitch Ratings | London \| Feb 2026 – Present |
+| **Full Stack Python Developer** | BNP Paribas | London \| Aug 2021 – Feb 2026 |
+| **Python Developer** | Definitive Healthcare | Oct 2019 – Sep 2020 |
+| **Software Development Intern** | Principal Financial Group | Jan 2019 – Sep 2019 |
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✍️ [xthreads.app](https://xthreads.app)
+### Production Platforms
+- **Agentic AI & RAG Platform** — Enterprise multi-agent intelligence and retrieval pipelines powering institutional credit risk analytics at Fitch Ratings.
+- **Trade Compression Engine** — High-throughput Python automation and Flask APIs for multi-billion dollar swap compressions at BNP Paribas.
+- **Pharma ML Data Pipelines** — Data transformation and predictive ML models for pharmaceutical analytics.
 
-AI-powered writing assistant for X and Threads. Helps creators write better posts, swipeable threads, and repurpose content across brand spaces.
+### Hackathons & Open Source
+- 🏆 **[e-sky.xyz](https://e-sky.xyz)** — Real-time on-chain token explorer built with Goldsky subgraphs and Ethena data (*1st Place – Ethena x Goldsky Hackathon*).
+- 🌐 **[nexBit](https://7e3lh-5yaaa-aaaaj-azwka-cai.icp0.io/)** — Decentralized Bitcoin wallet and explorer on the Internet Computer (*ICP Hackathon Finalist*).
 
----
-
-### 🪙 [e-sky.xyz](https://e-sky.xyz)
-
-A token analytics and explorer platform built using Goldsky subgraphs and Ethena data.  
-🏆 **Winner – Ethena x Goldsky Hackathon 2024**
-
----
-
-### ✝️ **Revival Evangelical Fellowship**
-
-A comprehensive church website designed to streamline operations and enhance online presence.  
-👉 **[Live Demo](https://www.revivalevangelicalfellowship.com/)**
+👉 *Explore full project case studies at [noahsheldon.dev/projects](https://noahsheldon.dev/projects).*
 
 ---
 
-### 🌐 **nexBit**
+## 🏅 Recognition & Certifications
 
-A decentralized Bitcoin wallet and explorer built on the Internet Computer, supporting secure Bitcoin transactions and real-time blockchain exploration.  
-👉 **[Live Demo](https://7e3lh-5yaaa-aaaaj-azwka-cai.icp0.io/)**
-
----
-
-### 🌟 **fcn Social**
-
-A dynamic social platform connecting communities with innovative features for seamless interaction.  
-👉 **[Live Demo](https://fcn.social)**
+- 🏆 **1st Place** – Ethena x Goldsky Hackathon
+- 🏅 **Finalist** – Internet Computer Protocol (ICP) Global Hackathon
+- 📜 **Professional Scrum Master (PSM)** – Agile engineering practices and team delivery management
+- 📜 **Interest Rate Swaps (LFS)** – Financial derivatives and trading systems for fixed-income markets
+- 🎤 **Mentoring & Speaking** – Mentoring engineers navigating their AI journey; open to conferences, tech meetups, and startup events
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🤝 Work With Me
 
-- **Ethena x Goldsky Hackathon Winner** – for e-sky.xyz
-- **Founder of xthreads.app and fcn.social** – AI tools for social media growth
-- **Envio Developer** – real-time blockchain indexing
-- **Encode Club** – Web3 development programs
+| 💡 Free Mentorship | 🔍 AI Opportunity Audit | 📚 Courses & Deep Dives | 🧘 Tech Wellbeing |
+| :---: | :---: | :---: | :---: |
+| 30 minutes on your career, your AI/ML systems, or whatever you're building. No pitch, no pressure. | A scored feasibility review of AI in your business. Personally assessed. No jargon. No overselling. | Applied AI, agentic systems, RAG, and LLMOps — the curriculum I wish I had. | 1:1 sessions for AI engineers on burnout, boundaries, and building a pace that lasts. |
+| 👉 [Book a free call](https://noahsheldon.dev/mentor) | 👉 [Get your free audit](https://noahsheldon.dev/audit) | 👉 [Join the waitlist](https://noahsheldon.dev/courses) | 👉 [Book a session](https://noahsheldon.dev/health) |
+
+*Free calls, audits, and learning resources at [noahsheldon.dev](https://noahsheldon.dev).*
 
 ---
 
-## 📈 My Stats
+## 🔭 What I'm Working On
+
+- Deploying deterministic multi-agent workflows into high-trust financial environments.
+- Scaling cost-effective LLMOps monitoring, evaluation, and vector retrieval pipelines.
+- Mentoring emerging AI engineers and teaching production AI system design.
+
+---
+
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noah-sheldon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -100,69 +110,28 @@ A dynamic social platform connecting communities with innovative features for se
 
 ---
 
-## 📈 Coding Activity (from WakaTime)
-
-### **Time Spent on Coding**
-
-<figure>
-<img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/1a405388-38dd-469e-a195-1516be35e008.svg"></figure>
-
-### **Language Usage**
-
-<figure>
-  <img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f97c3862-ebc0-4c14-ac2f-89bffb01d791.svg" alt="WakaTime Stats">
-</figure>
-
----
-
-### **Editor Usage**
-
-<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f55b247e-31b7-45b4-ac16-d0a16b5c82c5.svg"></figure>
-
-### **Operating Systems**
-
-<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/10006189-5843-4777-916e-2721d412505c.svg"></figure>
-
-### **Project Contributions**
-
-<figure><img src="https://wakatime.com/share/@018bd2a8-41a3-4b1a-b87b-d87e1858eb0e/f4e02496-9de7-4c06-8dc4-87885d477037.svg"></figure>
-
----
-
-## 🔭 What I’m Working On
-
-- **Bootstrapping AI tools** as a founder focused on speed, clarity, and impact.
-- **Building in public** to share everything I learn about product, growth, and execution.
-- Improving how creators and small teams write, schedule, and repurpose content online.
-- Exploring lean ways to blend full-stack development, AI, and marketing strategy into fast-moving SaaS products.
-
----
-
 ## 💬 Testimonials
 
-> _"Noah’s ability to solve complex problems is outstanding. His work on nexBit was both innovative and technically excellent."_  
+> _"Noah's ability to solve complex problems is outstanding. His work on nexBit was both innovative and technically excellent."_
 > – **Hackathon Judge**
 
-> _"Noah is a sharp product thinker who blends fast development with clarity. His tools are practical, polished, and built to scale."_  
+> _"Noah is a sharp product thinker who blends fast development with clarity. His tools are practical, polished, and built to scale."_
 > – **Startup Mentor**
 
-> _"He streamlined our church’s operations with an intuitive website and devotional tools that resonate with the community."_  
-> – **Revival Evangelical Fellowship Team**
+> _"He transformed our digital infrastructure with an intuitive site design and reliable tools built to perform under load."_
+> – **Engineering Collaborator**
 
 ---
 
-## 🌟 Let’s Connect
+## 🌟 Let's Connect
 
-Open to collaborations, technical consulting, or partnerships — reach out on [X](https://x.com/noah__sheldon)
-
-💼 [LinkedIn](https://www.linkedin.com/in/noah--sheldon/)  
-🐦 [X (formerly Twitter)](https://x.com/noah__sheldon)  
-📷 [Instagram](https://www.instagram.com/noah__sheldon/)
-
----
-
-## 📄 My Resume
-
-📥 [Download My Resume](https://www.linkedin.com/in/noah--sheldon/)
+- **Website Hub:** [noahsheldon.dev](https://noahsheldon.dev)
+- **All Social Links:** [noahsheldon.dev/links](https://noahsheldon.dev/links)
+- **Email:** [noah@noahsheldon.dev](mailto:noah@noahsheldon.dev)
+- **Platforms:** [X](https://x.com/noah__sheldon) \| [LinkedIn](https://www.linkedin.com/in/noah--sheldon/) \| [GitHub](https://github.com/noah-sheldon) \| [YouTube](https://www.youtube.com/@noah-sheldon) \| [TikTok](https://www.tiktok.com/@noah__sheldon) \| [Instagram](https://www.instagram.com/noah__sheldon/) \| [Threads](https://www.threads.com/@noah__sheldon) \| [Facebook](https://www.facebook.com/profile.php?id=61582645572926)
 
 ---
+
+## 📄 Resume & Portfolio
+
+📥 View my interactive portfolio and download my full resume at [noahsheldon.dev](https://noahsheldon.dev).
