@@ -1,70 +1,85 @@
-<div align="center">
+<p align="center">
+  <sub>applied ai / ml · engineering leadership · london</sub>
+</p>
 
-![Welcome Gif](./assets/images/welcome1.gif)
+<h1 align="center">Noah Sheldon</h1>
 
-# 👋 Hello, I'm Noah Sheldon
-
-### Associate Director, Applied AI/ML | Building Agentic AI in Production | Building in Public
-
-[![X Badge](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/noah__sheldon)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah--sheldon/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noah__sheldon/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-sheldon)
-[![TikTok Badge](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noah__sheldon)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@noah-sheldon)
-[![Threads Badge](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noah__sheldon)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582645572926)
-[![Website Badge](https://img.shields.io/badge/Website-noahsheldon.dev-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noahsheldon.dev)
-[![Email Badge](https://img.shields.io/badge/Email-noah%40noahsheldon.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah@noahsheldon.dev)
-
-</div>
-
----
-
-## About Me
-
-- **Leading Applied AI & ML** as Associate Director at Fitch Ratings in London. Specializing in enterprise Agentic AI systems, production RAG architectures, and scalable LLMOps.
-- **MSc in Data Science** from the University of Bristol.
-- *"I design systems. I write code. I lead teams. I teach both."* Building performant solutions from institutional finance pipelines to public developer tools.
-
----
-
-## 🧠 Skills & Expertise
-
-| Category | Key Technologies & Capabilities |
-| :--- | :--- |
-| **Applied AI & ML** | Agentic AI, RAG, LLMOps, MLOps, LangChain, LangGraph, LlamaIndex, Amazon Bedrock, Azure AI Foundry, Vector Databases |
-| **Backend** | Python, FastAPI, Django, Node.js, Microservices, REST & GraphQL APIs |
-| **Data Engineering** | PostgreSQL, Redis, Elasticsearch, Apache Airflow, Pandas, NumPy |
-| **Infrastructure & Cloud** | Docker, Kubernetes, AWS, Azure, CI/CD Pipelines, Amazon SageMaker |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Engineering Leadership** | Strategy, Team Leadership, Technical Mentorship, Public Speaking, Agile/Scrum |
+<h3 align="center">Associate Director, Applied AI/ML — Fitch Ratings</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,fastapi,django,nodejs,postgres,redis,docker,kubernetes,aws,azure,git" alt="Tech Stack" />
+  <em>I design systems. I write code. I lead teams. I teach both.</em>
+</p>
+
+<p align="center">
+  <a href="https://x.com/noah__sheldon"><img src="https://img.shields.io/badge/-X-18181b?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/noah--sheldon/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/noah-sheldon"><img src="https://img.shields.io/badge/-GitHub-18181b?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.youtube.com/@noah-sheldon"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.tiktok.com/@noah__sheldon"><img src="https://img.shields.io/badge/-TikTok-18181b?style=flat&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.instagram.com/noah__sheldon/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.threads.com/@noah__sheldon"><img src="https://img.shields.io/badge/-Threads-18181b?style=flat&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.facebook.com/profile.php?id=61582645572926"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://noahsheldon.dev"><img src="https://img.shields.io/badge/-noahsheldon.dev-18181b?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:noah@noahsheldon.dev"><img src="https://img.shields.io/badge/-noah@noahsheldon.dev-18181b?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 💼 Experience Timeline
+## About
 
-| Role | Organization | Location / Dates |
+Building production AI systems in financial services — agentic AI, RAG pipelines, and LLMOps infrastructure that drive credit ratings analytics at global scale. I lead engineering teams, mentor developers, and teach what actually works in production.
+
+|  |  |
+| :--- | :--- |
+| **Role** | Associate Director, Applied AI/ML — Fitch Ratings |
+| **Location** | London, UK |
+| **Education** | MSc Data Science, University of Bristol |
+| **Focus** | Agentic AI · RAG · LLMOps for high-trust environments |
+| **Email** | [noah@noahsheldon.dev](mailto:noah@noahsheldon.dev) |
+
+---
+
+## Experience
+
+| Role | Organization | Period |
 | :--- | :--- | :--- |
-| **Associate Director, Applied AI/ML** | Fitch Ratings | London \| Feb 2026 – Present |
-| **Full Stack Python Developer** | BNP Paribas | London \| Aug 2021 – Feb 2026 |
+| **Associate Director, Applied AI/ML** | Fitch Ratings | Feb 2026 – Present |
+| **Full Stack Python Developer** | BNP Paribas | Aug 2021 – Feb 2026 |
 | **Python Developer** | Definitive Healthcare | Oct 2019 – Sep 2020 |
 | **Software Development Intern** | Principal Financial Group | Jan 2019 – Sep 2019 |
 
 ---
 
-## 🚀 Featured Projects
+## Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **AI / LLM Engineering** | ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-52525b?style=flat) ![RAG](https://img.shields.io/badge/-RAG-52525b?style=flat) ![LLMOps](https://img.shields.io/badge/-LLMOps-52525b?style=flat) ![MLOps](https://img.shields.io/badge/-MLOps-52525b?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-52525b?style=flat) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-52525b?style=flat) ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-52525b?style=flat) |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-52525b?style=flat) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| **Data & Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat&logo=amazonwebservices&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/-Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-52525b?style=flat) ![SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=flat&logo=amazonwebservices&logoColor=white) |
+| **Hosting & Deployment** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Intelligence Tools** | ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat) ![Cursor](https://img.shields.io/badge/-Cursor-18181b?style=flat) ![GitHub Copilot](https://img.shields.io/badge/-Copilot-181717?style=flat&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Engineering Leadership** | ![Strategy](https://img.shields.io/badge/-Engineering%20Strategy-52525b?style=flat) ![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-52525b?style=flat) ![Mentoring](https://img.shields.io/badge/-Technical%20Mentorship-52525b?style=flat) ![Speaking](https://img.shields.io/badge/-Public%20Speaking-52525b?style=flat) ![Agile](https://img.shields.io/badge/-Agile%2FScrum-52525b?style=flat) |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,tailwind,fastapi,django,nodejs,postgres,redis,elasticsearch,airflow,pandas,docker,kubernetes,aws,azure,git,vercel,cloudflare,nginx" alt="Tech Stack" />
+</p>
+
+---
+
+## Projects
 
 ### Production Platforms
+
 - **Agentic AI & RAG Platform** — Enterprise multi-agent intelligence and retrieval pipelines powering institutional credit risk analytics at Fitch Ratings.
 - **Trade Compression Engine** — High-throughput Python automation and Flask APIs for multi-billion dollar swap compressions at BNP Paribas.
 - **Pharma ML Data Pipelines** — Data transformation and predictive ML models for pharmaceutical analytics.
 
 ### Hackathons & Open Source
+
 - 🏆 **[e-sky.xyz](https://e-sky.xyz)** — Real-time on-chain token explorer built with Goldsky subgraphs and Ethena data (*1st Place – Ethena x Goldsky Hackathon*).
 - 🌐 **[nexBit](https://7e3lh-5yaaa-aaaaj-azwka-cai.icp0.io/)** — Decentralized Bitcoin wallet and explorer on the Internet Computer (*ICP Hackathon Finalist*).
 
@@ -72,7 +87,7 @@
 
 ---
 
-## 🏅 Recognition & Certifications
+## Recognition & Certifications
 
 - 🏆 **1st Place** – Ethena x Goldsky Hackathon
 - 🏅 **Finalist** – Internet Computer Protocol (ICP) Global Hackathon
@@ -82,7 +97,7 @@
 
 ---
 
-## 🤝 Work With Me
+## Work With Me
 
 | 💡 Free Mentorship | 🔍 AI Opportunity Audit | 📚 Courses & Deep Dives | 🧘 Tech Wellbeing |
 | :---: | :---: | :---: | :---: |
@@ -93,15 +108,7 @@
 
 ---
 
-## 🔭 What I'm Working On
-
-- Deploying deterministic multi-agent workflows into high-trust financial environments.
-- Scaling cost-effective LLMOps monitoring, evaluation, and vector retrieval pipelines.
-- Mentoring emerging AI engineers and teaching production AI system design.
-
----
-
-## 📈 Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noah-sheldon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -110,7 +117,7 @@
 
 ---
 
-## 💬 Testimonials
+## Testimonials
 
 > _"Noah's ability to solve complex problems is outstanding. His work on nexBit was both innovative and technically excellent."_
 > – **Hackathon Judge**
@@ -123,15 +130,13 @@
 
 ---
 
-## 🌟 Let's Connect
+## Connect
 
-- **Website Hub:** [noahsheldon.dev](https://noahsheldon.dev)
-- **All Social Links:** [noahsheldon.dev/links](https://noahsheldon.dev/links)
+- **Website:** [noahsheldon.dev](https://noahsheldon.dev)
+- **Links hub:** [noahsheldon.dev/links](https://noahsheldon.dev/links)
 - **Email:** [noah@noahsheldon.dev](mailto:noah@noahsheldon.dev)
-- **Platforms:** [X](https://x.com/noah__sheldon) \| [LinkedIn](https://www.linkedin.com/in/noah--sheldon/) \| [GitHub](https://github.com/noah-sheldon) \| [YouTube](https://www.youtube.com/@noah-sheldon) \| [TikTok](https://www.tiktok.com/@noah__sheldon) \| [Instagram](https://www.instagram.com/noah__sheldon/) \| [Threads](https://www.threads.com/@noah__sheldon) \| [Facebook](https://www.facebook.com/profile.php?id=61582645572926)
+- **Platforms:** [X](https://x.com/noah__sheldon) · [LinkedIn](https://www.linkedin.com/in/noah--sheldon/) · [GitHub](https://github.com/noah-sheldon) · [YouTube](https://www.youtube.com/@noah-sheldon) · [TikTok](https://www.tiktok.com/@noah__sheldon) · [Instagram](https://www.instagram.com/noah__sheldon/) · [Threads](https://www.threads.com/@noah__sheldon) · [Facebook](https://www.facebook.com/profile.php?id=61582645572926)
 
 ---
 
-## 📄 Resume & Portfolio
-
-📥 View my interactive portfolio and download my full resume at [noahsheldon.dev](https://noahsheldon.dev).
+<sub>© 2026 Noah Sheldon — portfolio, resume, and writing at [noahsheldon.dev](https://noahsheldon.dev)</sub>
