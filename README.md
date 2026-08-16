@@ -137,6 +137,7 @@ Building production AI systems in financial services — agentic AI, RAG pipelin
 ## Connect
 
 - **Website:** [noahsheldon.dev](https://noahsheldon.dev)
+- **Blog:** [noahsheldon.dev/blog](https://noahsheldon.dev/blog)
 - **Links hub:** [noahsheldon.dev/links](https://noahsheldon.dev/links)
 - **Email:** [noah@noahsheldon.dev](mailto:noah@noahsheldon.dev)
 - **Platforms:** [X](https://x.com/noah__sheldon) · [LinkedIn](https://www.linkedin.com/in/noah--sheldon/) · [GitHub](https://github.com/noah-sheldon) · [YouTube](https://www.youtube.com/@noah-sheldon) · [TikTok](https://www.tiktok.com/@noah__sheldon) · [Instagram](https://www.instagram.com/noah__sheldon/) · [Threads](https://www.threads.com/@noah__sheldon) · [Facebook](https://www.facebook.com/profile.php?id=61582645572926)
